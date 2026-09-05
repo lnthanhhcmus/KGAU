@@ -1,0 +1,29 @@
+### SOURCE: SimKGC
+# Minimum Python version: 3.8+ (enforce outside pip requirements)
+
+# Core ML libraries
+# Install torch from the PyTorch CUDA index that matches your NVIDIA driver (nvidia-smi "CUDA Version").
+# Do NOT rely on plain `pip install torch` — PyPI may pull a cu130+ build that needs a newer driver.
+# Example (driver CUDA 12.8, e.g. 570.x): pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
+# Example (CUDA 12.1): pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+# Example (CPU-only fallback): pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+# torch is installed separately; see commands above.
+transformers>=4.15
+
+# Tokenization backends (some pretrained tokenizers need these)
+tokenizers>=0.10.0
+sentencepiece>=0.1.95
+
+# Utilities
+numpy>=1.19
+tqdm>=4.0
+scikit-learn>=0.24
+typing-extensions>=3.10
+
+# Optional: specify a compatible protobuf if environment needs it
+protobuf>=3.19
+
+# Hyperparameter search (scripts/hpo/)
+optuna>=3.0
+pandas>=1.3
+matplotlib>=3.5
