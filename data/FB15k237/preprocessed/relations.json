@@ -1,0 +1,950 @@
+[
+    {
+        "relation_id": "/location/country/form_of_government",
+        "relation": "form of government country location"
+    },
+    {
+        "relation_id": "/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor",
+        "relation": "actor regular tv appearance regular cast tv program tv"
+    },
+    {
+        "relation_id": "/media_common/netflix_genre/titles",
+        "relation": "titles netflix genre media common"
+    },
+    {
+        "relation_id": "/award/award_winner/awards_won./award/award_honor/award_winner",
+        "relation": "award honor awards won award winner award"
+    },
+    {
+        "relation_id": "/soccer/football_team/current_roster./sports/sports_team_roster/position",
+        "relation": "position sports team roster sports current roster football team soccer"
+    },
+    {
+        "relation_id": "/soccer/football_team/current_roster./soccer/football_roster_position/position",
+        "relation": "position football roster position current roster football team soccer"
+    },
+    {
+        "relation_id": "/film/actor/film./film/performance/film",
+        "relation": "performance actor film"
+    },
+    {
+        "relation_id": "/award/award_category/nominees./award/award_nomination/nominated_for",
+        "relation": "nominated for award nomination nominees award category award"
+    },
+    {
+        "relation_id": "/award/award_nominee/award_nominations./award/award_nomination/award_nominee",
+        "relation": "award nomination award nominations award nominee award"
+    },
+    {
+        "relation_id": "/music/performance_role/regular_performances./music/group_membership/role",
+        "relation": "role group membership regular performances performance role music"
+    },
+    {
+        "relation_id": "/award/award_category/winners./award/award_honor/ceremony",
+        "relation": "ceremony award honor winners award category award"
+    },
+    {
+        "relation_id": "/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium",
+        "relation": "film release distribution medium film regional release date release date s film"
+    },
+    {
+        "relation_id": "/award/award_winning_work/awards_won./award/award_honor/award_winner",
+        "relation": "award winner award honor awards won award winning work award"
+    },
+    {
+        "relation_id": "/film/film/release_date_s./film/film_regional_release_date/film_release_region",
+        "relation": "film release region film regional release date release date s film"
+    },
+    {
+        "relation_id": "/film/film/language",
+        "relation": "language film"
+    },
+    {
+        "relation_id": "/location/location/contains",
+        "relation": "contains location"
+    },
+    {
+        "relation_id": "/organization/organization/headquarters./location/mailing_address/country",
+        "relation": "country mailing address location headquarters organization"
+    },
+    {
+        "relation_id": "/people/person/profession",
+        "relation": "profession person people"
+    },
+    {
+        "relation_id": "/location/statistical_region/religions./location/religion_percentage/religion",
+        "relation": "religion religion percentage religions statistical region location"
+    },
+    {
+        "relation_id": "/award/award_nominee/award_nominations./award/award_nomination/award",
+        "relation": "award award nomination award nominations award nominee award"
+    },
+    {
+        "relation_id": "/music/genre/artists",
+        "relation": "artists genre music"
+    },
+    {
+        "relation_id": "/influence/influence_node/influenced_by",
+        "relation": "influenced by influence node influence"
+    },
+    {
+        "relation_id": "/education/educational_institution/students_graduates./education/education/student",
+        "relation": "student students graduates educational institution education"
+    },
+    {
+        "relation_id": "/organization/organization_member/member_of./organization/organization_membership/organization",
+        "relation": "organization organization membership member of organization member organization"
+    },
+    {
+        "relation_id": "/people/person/place_of_birth",
+        "relation": "place of birth person people"
+    },
+    {
+        "relation_id": "/common/topic/webpage./common/webpage/category",
+        "relation": "category webpage topic common"
+    },
+    {
+        "relation_id": "/film/film/other_crew./film/film_crew_gig/film_crew_role",
+        "relation": "film crew role film crew gig other crew film"
+    },
+    {
+        "relation_id": "/award/award_ceremony/awards_presented./award/award_honor/award_winner",
+        "relation": "award winner award honor awards presented award ceremony award"
+    },
+    {
+        "relation_id": "/film/film/country",
+        "relation": "country film"
+    },
+    {
+        "relation_id": "/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country",
+        "relation": "country olympic athlete affiliation athletes olympic sport olympics"
+    },
+    {
+        "relation_id": "/award/award_winning_work/awards_won./award/award_honor/award",
+        "relation": "award award honor awards won award winning work award"
+    },
+    {
+        "relation_id": "/film/film/genre",
+        "relation": "genre film"
+    },
+    {
+        "relation_id": "/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film",
+        "relation": "film film film distributor relationship films distributed film distributor film"
+    },
+    {
+        "relation_id": "/location/statistical_region/rent50_2./measurement_unit/dated_money_value/currency",
+        "relation": "currency dated money value measurement unit rent50 2 statistical region location"
+    },
+    {
+        "relation_id": "/film/film/estimated_budget./measurement_unit/dated_money_value/currency",
+        "relation": "currency dated money value measurement unit estimated budget film"
+    },
+    {
+        "relation_id": "/government/legislative_session/members./government/government_position_held/district_represented",
+        "relation": "district represented government position held members legislative session government"
+    },
+    {
+        "relation_id": "/sports/sports_team/roster./american_football/football_historical_roster_position/position_s",
+        "relation": "position s football historical roster position american football roster sports team sports"
+    },
+    {
+        "relation_id": "/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office",
+        "relation": "jurisdiction of office government position held officeholders government office category government"
+    },
+    {
+        "relation_id": "/award/award_nominee/award_nominations./award/award_nomination/nominated_for",
+        "relation": "nominated for award nomination award nominations award nominee award"
+    },
+    {
+        "relation_id": "/people/deceased_person/place_of_death",
+        "relation": "place of death deceased person people"
+    },
+    {
+        "relation_id": "/sports/pro_athlete/teams./sports/sports_team_roster/team",
+        "relation": "team sports team roster teams pro athlete sports"
+    },
+    {
+        "relation_id": "/music/artist/track_contributions./music/track_contribution/role",
+        "relation": "role track contribution track contributions artist music"
+    },
+    {
+        "relation_id": "/music/instrument/instrumentalists",
+        "relation": "instrumentalists instrument music"
+    },
+    {
+        "relation_id": "/people/person/gender",
+        "relation": "gender person people"
+    },
+    {
+        "relation_id": "/business/job_title/people_with_this_title./business/employment_tenure/company",
+        "relation": "company employment tenure people with this title job title business"
+    },
+    {
+        "relation_id": "/base/popstra/celebrity/friendship./base/popstra/friendship/participant",
+        "relation": "participant popstra base friendship celebrity popstra base"
+    },
+    {
+        "relation_id": "/business/business_operation/industry",
+        "relation": "industry business operation business"
+    },
+    {
+        "relation_id": "/award/award_category/winners./award/award_honor/award_winner",
+        "relation": "award winner award honor winners award category award"
+    },
+    {
+        "relation_id": "/people/person/nationality",
+        "relation": "nationality person people"
+    },
+    {
+        "relation_id": "/sports/sports_team/roster./baseball/baseball_roster_position/position",
+        "relation": "position baseball roster position baseball roster sports team sports"
+    },
+    {
+        "relation_id": "/people/cause_of_death/people",
+        "relation": "cause of death people"
+    },
+    {
+        "relation_id": "/tv/tv_program/languages",
+        "relation": "languages tv program tv"
+    },
+    {
+        "relation_id": "/music/genre/parent_genre",
+        "relation": "parent genre genre music"
+    },
+    {
+        "relation_id": "/base/popstra/celebrity/breakup./base/popstra/breakup/participant",
+        "relation": "participant popstra base breakup celebrity popstra base"
+    },
+    {
+        "relation_id": "/location/country/capital",
+        "relation": "capital country location"
+    },
+    {
+        "relation_id": "/film/special_film_performance_type/film_performance_type./film/performance/film",
+        "relation": "film performance film performance type special film performance type film"
+    },
+    {
+        "relation_id": "/location/hud_county_place/place",
+        "relation": "place hud county place location"
+    },
+    {
+        "relation_id": "/music/performance_role/guest_performances./music/recording_contribution/performance_role",
+        "relation": "recording contribution guest performances performance role music"
+    },
+    {
+        "relation_id": "/location/location/adjoin_s./location/adjoining_relationship/adjoins",
+        "relation": "adjoins adjoining relationship adjoin s location"
+    },
+    {
+        "relation_id": "/film/film_subject/films",
+        "relation": "films film subject film"
+    },
+    {
+        "relation_id": "/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency",
+        "relation": "currency dated money value measurement unit net worth person extra schemastaging base"
+    },
+    {
+        "relation_id": "/education/educational_institution/colors",
+        "relation": "colors educational institution education"
+    },
+    {
+        "relation_id": "/base/aareas/schema/administrative_area/administrative_parent",
+        "relation": "administrative parent administrative area schema aareas base"
+    },
+    {
+        "relation_id": "/organization/role/leaders./organization/leadership/organization",
+        "relation": "organization leadership leaders role organization"
+    },
+    {
+        "relation_id": "/government/legislative_session/members./government/government_position_held/legislative_sessions",
+        "relation": "legislative sessions government position held members legislative session government"
+    },
+    {
+        "relation_id": "/olympics/olympic_games/sports",
+        "relation": "sports olympic games olympics"
+    },
+    {
+        "relation_id": "/people/person/places_lived./people/place_lived/location",
+        "relation": "location place lived places lived person people"
+    },
+    {
+        "relation_id": "/award/award_category/disciplines_or_subjects",
+        "relation": "disciplines or subjects award category award"
+    },
+    {
+        "relation_id": "/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/school",
+        "relation": "school sports league draft pick draft picks professional sports team sports"
+    },
+    {
+        "relation_id": "/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics",
+        "relation": "olympics olympic medal honor medals won olympic participating country olympics"
+    },
+    {
+        "relation_id": "/language/human_language/countries_spoken_in",
+        "relation": "countries spoken in human language language"
+    },
+    {
+        "relation_id": "/people/ethnicity/people",
+        "relation": "ethnicity people"
+    },
+    {
+        "relation_id": "/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics",
+        "relation": "olympics olympic athlete affiliation athletes olympic participating country olympics"
+    },
+    {
+        "relation_id": "/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal",
+        "relation": "medal olympic medal honor medals won olympic participating country olympics"
+    },
+    {
+        "relation_id": "/film/film/other_crew./film/film_crew_gig/crewmember",
+        "relation": "crewmember film crew gig other crew film"
+    },
+    {
+        "relation_id": "/music/performance_role/track_performances./music/track_contribution/role",
+        "relation": "role track contribution track performances performance role music"
+    },
+    {
+        "relation_id": "/music/record_label/artist",
+        "relation": "artist record label music"
+    },
+    {
+        "relation_id": "/base/popstra/celebrity/dated./base/popstra/dated/participant",
+        "relation": "participant popstra base dated celebrity popstra base"
+    },
+    {
+        "relation_id": "/base/locations/continents/countries_within",
+        "relation": "countries within continents locations base"
+    },
+    {
+        "relation_id": "/sports/sports_league_draft/picks./sports/sports_league_draft_pick/school",
+        "relation": "school sports league draft pick picks sports league draft sports"
+    },
+    {
+        "relation_id": "/sports/sports_team/sport",
+        "relation": "sport sports team sports"
+    },
+    {
+        "relation_id": "/education/educational_institution_campus/educational_institution",
+        "relation": "educational institution educational institution campus education"
+    },
+    {
+        "relation_id": "/people/person/religion",
+        "relation": "religion person people"
+    },
+    {
+        "relation_id": "/organization/organization/headquarters./location/mailing_address/citytown",
+        "relation": "citytown mailing address location headquarters organization"
+    },
+    {
+        "relation_id": "/film/film/produced_by",
+        "relation": "produced by film"
+    },
+    {
+        "relation_id": "/people/person/spouse_s./people/marriage/type_of_union",
+        "relation": "type of union marriage spouse s person people"
+    },
+    {
+        "relation_id": "/film/film/production_companies",
+        "relation": "production companies film"
+    },
+    {
+        "relation_id": "/location/country/second_level_divisions",
+        "relation": "second level divisions country location"
+    },
+    {
+        "relation_id": "/base/culturalevent/event/entity_involved",
+        "relation": "entity involved event culturalevent base"
+    },
+    {
+        "relation_id": "/education/educational_degree/people_with_this_degree./education/education/institution",
+        "relation": "institution people with this degree educational degree education"
+    },
+    {
+        "relation_id": "/film/film/distributors./film/film_film_distributor_relationship/film_distribution_medium",
+        "relation": "film distribution medium film film distributor relationship distributors film"
+    },
+    {
+        "relation_id": "/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type",
+        "relation": "producer type tv producer term tv producer tv program tv"
+    },
+    {
+        "relation_id": "/music/performance_role/regular_performances./music/group_membership/group",
+        "relation": "group group membership regular performances performance role music"
+    },
+    {
+        "relation_id": "/government/politician/government_positions_held./government/government_position_held/legislative_sessions",
+        "relation": "legislative sessions government position held government positions held politician government"
+    },
+    {
+        "relation_id": "/sports/sports_team_location/teams",
+        "relation": "teams sports team location sports"
+    },
+    {
+        "relation_id": "/sports/sports_team/colors",
+        "relation": "colors sports team sports"
+    },
+    {
+        "relation_id": "/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/draft",
+        "relation": "draft sports league draft pick draft picks professional sports team sports"
+    },
+    {
+        "relation_id": "/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for",
+        "relation": "nominated for award nomination award nominations award nominated work award"
+    },
+    {
+        "relation_id": "/baseball/baseball_team/team_stats./baseball/baseball_team_stats/season",
+        "relation": "season baseball team stats team stats baseball team baseball"
+    },
+    {
+        "relation_id": "/user/alexander/philosophy/philosopher/interests",
+        "relation": "interests philosopher philosophy alexander user"
+    },
+    {
+        "relation_id": "/people/person/languages",
+        "relation": "languages person people"
+    },
+    {
+        "relation_id": "/education/educational_institution/students_graduates./education/education/major_field_of_study",
+        "relation": "major field of study students graduates educational institution education"
+    },
+    {
+        "relation_id": "/film/director/film",
+        "relation": "director film"
+    },
+    {
+        "relation_id": "/award/award_ceremony/awards_presented./award/award_honor/honored_for",
+        "relation": "honored for award honor awards presented award ceremony award"
+    },
+    {
+        "relation_id": "/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics",
+        "relation": "olympics olympic athlete affiliation athletes olympic sport olympics"
+    },
+    {
+        "relation_id": "/film/film/costume_design_by",
+        "relation": "costume design by film"
+    },
+    {
+        "relation_id": "/film/film/featured_film_locations",
+        "relation": "featured film locations film"
+    },
+    {
+        "relation_id": "/tv/tv_program/genre",
+        "relation": "genre tv program tv"
+    },
+    {
+        "relation_id": "/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency",
+        "relation": "currency dated money value measurement unit endowment endowed organization organization"
+    },
+    {
+        "relation_id": "/film/film/written_by",
+        "relation": "written by film"
+    },
+    {
+        "relation_id": "/tv/tv_producer/programs_produced./tv/tv_producer_term/producer_type",
+        "relation": "producer type tv producer term programs produced tv producer tv"
+    },
+    {
+        "relation_id": "/location/hud_county_place/county",
+        "relation": "county hud county place location"
+    },
+    {
+        "relation_id": "/education/educational_degree/people_with_this_degree./education/education/major_field_of_study",
+        "relation": "major field of study people with this degree educational degree education"
+    },
+    {
+        "relation_id": "/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category",
+        "relation": "contact category phone sandbox schemastaging base phone number organization extra schemastaging base"
+    },
+    {
+        "relation_id": "/base/saturdaynightlive/snl_cast_member/seasons./base/saturdaynightlive/snl_season_tenure/cast_members",
+        "relation": "cast members snl season tenure saturdaynightlive base seasons snl cast member saturdaynightlive base"
+    },
+    {
+        "relation_id": "/film/film/film_format",
+        "relation": "film format film"
+    },
+    {
+        "relation_id": "/film/film/music",
+        "relation": "music film"
+    },
+    {
+        "relation_id": "/sports/sports_team/roster./american_football/football_roster_position/position",
+        "relation": "position football roster position american football roster sports team sports"
+    },
+    {
+        "relation_id": "/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy",
+        "relation": "taxonomy taxonomy entry random tsegaran user entry taxonomy subject random tsegaran user"
+    },
+    {
+        "relation_id": "/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend",
+        "relation": "friend friendship celebrity friends celebrity celebrities"
+    },
+    {
+        "relation_id": "/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source",
+        "relation": "source dated integer measurement unit estimated number of mortgages hud foreclosure area location"
+    },
+    {
+        "relation_id": "/base/x2010fifaworldcupsouthafrica/world_cup_squad/current_world_cup_squad./base/x2010fifaworldcupsouthafrica/current_world_cup_squad/current_club",
+        "relation": "current club x2010fifaworldcupsouthafrica base current world cup squad world cup squad x2010fifaworldcupsouthafrica base"
+    },
+    {
+        "relation_id": "/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer",
+        "relation": "vacationer vacation choice popstra base vacationers location popstra base"
+    },
+    {
+        "relation_id": "/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant",
+        "relation": "participant popstra base canoodled celebrity popstra base"
+    },
+    {
+        "relation_id": "/education/educational_institution/school_type",
+        "relation": "school type educational institution education"
+    },
+    {
+        "relation_id": "/sports/sport/pro_athletes./sports/pro_sports_played/athlete",
+        "relation": "athlete pro sports played pro athletes sport sports"
+    },
+    {
+        "relation_id": "/award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee",
+        "relation": "inductee hall of fame induction inductees hall of fame award"
+    },
+    {
+        "relation_id": "/base/biblioness/bibs_location/state",
+        "relation": "state bibs location biblioness base"
+    },
+    {
+        "relation_id": "/education/university/local_tuition./measurement_unit/dated_money_value/currency",
+        "relation": "currency dated money value measurement unit local tuition university education"
+    },
+    {
+        "relation_id": "/business/business_operation/revenue./measurement_unit/dated_money_value/currency",
+        "relation": "currency dated money value measurement unit revenue business operation business"
+    },
+    {
+        "relation_id": "/sports/sports_position/players./sports/sports_team_roster/team",
+        "relation": "team sports team roster players sports position sports"
+    },
+    {
+        "relation_id": "/military/military_conflict/combatants./military/military_combatant_group/combatants",
+        "relation": "military combatant group combatants military conflict military"
+    },
+    {
+        "relation_id": "/sports/sports_league/teams./sports/sports_league_participation/team",
+        "relation": "team sports league participation teams sports league sports"
+    },
+    {
+        "relation_id": "/base/biblioness/bibs_location/country",
+        "relation": "country bibs location biblioness base"
+    },
+    {
+        "relation_id": "/music/group_member/membership./music/group_membership/role",
+        "relation": "role group membership membership group member music"
+    },
+    {
+        "relation_id": "/location/administrative_division/country",
+        "relation": "country administrative division location"
+    },
+    {
+        "relation_id": "/film/film/executive_produced_by",
+        "relation": "executive produced by film"
+    },
+    {
+        "relation_id": "/food/food/nutrients./food/nutrition_fact/nutrient",
+        "relation": "nutrient nutrition fact nutrients food"
+    },
+    {
+        "relation_id": "/music/group_member/membership./music/group_membership/group",
+        "relation": "group group membership membership group member music"
+    },
+    {
+        "relation_id": "/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency",
+        "relation": "currency dated money value measurement unit gdp nominal per capita statistical region location"
+    },
+    {
+        "relation_id": "/education/field_of_study/students_majoring./education/education/student",
+        "relation": "student students majoring field of study education"
+    },
+    {
+        "relation_id": "/award/award_winning_work/awards_won./award/award_honor/honored_for",
+        "relation": "honored for award honor awards won award winning work award"
+    },
+    {
+        "relation_id": "/sports/sports_team/roster./basketball/basketball_roster_position/position",
+        "relation": "position basketball roster position basketball roster sports team sports"
+    },
+    {
+        "relation_id": "/organization/organization/headquarters./location/mailing_address/state_province_region",
+        "relation": "state province region mailing address location headquarters organization"
+    },
+    {
+        "relation_id": "/base/aareas/schema/administrative_area/capital",
+        "relation": "capital administrative area schema aareas base"
+    },
+    {
+        "relation_id": "/tv/tv_producer/programs_produced./tv/tv_producer_term/program",
+        "relation": "program tv producer term programs produced tv producer tv"
+    },
+    {
+        "relation_id": "/education/educational_institution/campuses",
+        "relation": "campuses educational institution education"
+    },
+    {
+        "relation_id": "/film/film/distributors./film/film_film_distributor_relationship/region",
+        "relation": "region film film distributor relationship distributors film"
+    },
+    {
+        "relation_id": "/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month",
+        "relation": "month travel destination monthly climate climate travel destination travel"
+    },
+    {
+        "relation_id": "/medicine/disease/notable_people_with_this_condition",
+        "relation": "notable people with this condition disease medicine"
+    },
+    {
+        "relation_id": "/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location",
+        "relation": "service location phone sandbox schemastaging base phone number organization extra schemastaging base"
+    },
+    {
+        "relation_id": "/people/ethnicity/geographic_distribution",
+        "relation": "geographic distribution ethnicity people"
+    },
+    {
+        "relation_id": "/military/military_combatant/military_conflicts./military/military_combatant_group/combatants",
+        "relation": "combatants military combatant group military conflicts military combatant military"
+    },
+    {
+        "relation_id": "/film/film/personal_appearances./film/personal_film_appearance/person",
+        "relation": "person personal film appearance personal appearances film"
+    },
+    {
+        "relation_id": "/location/location/time_zones",
+        "relation": "time zones location"
+    },
+    {
+        "relation_id": "/film/film/story_by",
+        "relation": "story by film"
+    },
+    {
+        "relation_id": "/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed",
+        "relation": "dog breed dog city relationship petbreeds base top breeds city with dogs petbreeds base"
+    },
+    {
+        "relation_id": "/olympics/olympic_games/participating_countries",
+        "relation": "participating countries olympic games olympics"
+    },
+    {
+        "relation_id": "/tv/tv_network/programs./tv/tv_network_duration/program",
+        "relation": "program tv network duration programs tv network tv"
+    },
+    {
+        "relation_id": "/people/person/employment_history./business/employment_tenure/company",
+        "relation": "company employment tenure business employment history person people"
+    },
+    {
+        "relation_id": "/music/artist/origin",
+        "relation": "origin artist music"
+    },
+    {
+        "relation_id": "/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony",
+        "relation": "location of ceremony marriage unions of this type marriage union type people"
+    },
+    {
+        "relation_id": "/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program",
+        "relation": "tv program tv program writer relationship tv programs tv writer tv"
+    },
+    {
+        "relation_id": "/time/event/locations",
+        "relation": "locations event time"
+    },
+    {
+        "relation_id": "/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity",
+        "relation": "romantic relationship sexual relationships celebrity celebrities"
+    },
+    {
+        "relation_id": "/government/political_party/politicians_in_this_party./government/political_party_tenure/politician",
+        "relation": "politician political party tenure politicians in this party political party government"
+    },
+    {
+        "relation_id": "/education/university/domestic_tuition./measurement_unit/dated_money_value/currency",
+        "relation": "currency dated money value measurement unit domestic tuition university education"
+    },
+    {
+        "relation_id": "/organization/non_profit_organization/registered_with./organization/non_profit_registration/registering_agency",
+        "relation": "registering agency non profit registration registered with non profit organization organization"
+    },
+    {
+        "relation_id": "/user/ktrueman/default_domain/international_organization/member_states",
+        "relation": "member states international organization default domain ktrueman user"
+    },
+    {
+        "relation_id": "/american_football/football_team/current_roster./sports/sports_team_roster/position",
+        "relation": "position sports team roster sports current roster football team american football"
+    },
+    {
+        "relation_id": "/soccer/football_player/current_team./sports/sports_team_roster/team",
+        "relation": "team sports team roster sports current team football player soccer"
+    },
+    {
+        "relation_id": "/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal",
+        "relation": "medal olympic medal honor medals awarded olympic games olympics"
+    },
+    {
+        "relation_id": "/award/ranked_item/appears_in_ranked_lists./award/ranking/list",
+        "relation": "list ranking appears in ranked lists ranked item award"
+    },
+    {
+        "relation_id": "/film/film_set_designer/film_sets_designed",
+        "relation": "film sets designed film set designer film"
+    },
+    {
+        "relation_id": "/user/jg/default_domain/olympic_games/sports",
+        "relation": "sports olympic games default domain jg user"
+    },
+    {
+        "relation_id": "/people/person/sibling_s./people/sibling_relationship/sibling",
+        "relation": "sibling sibling relationship sibling s person people"
+    },
+    {
+        "relation_id": "/base/marchmadness/ncaa_basketball_tournament/seeds./base/marchmadness/ncaa_tournament_seed/team",
+        "relation": "team ncaa tournament seed marchmadness base seeds ncaa basketball tournament marchmadness base"
+    },
+    {
+        "relation_id": "/music/artist/contribution./music/recording_contribution/performance_role",
+        "relation": "performance role recording contribution contribution artist music"
+    },
+    {
+        "relation_id": "/sports/sports_position/players./sports/sports_team_roster/position",
+        "relation": "position sports team roster players sports position sports"
+    },
+    {
+        "relation_id": "/government/politician/government_positions_held./government/government_position_held/basic_title",
+        "relation": "basic title government position held government positions held politician government"
+    },
+    {
+        "relation_id": "/sports/sports_position/players./american_football/football_historical_roster_position/position_s",
+        "relation": "position s football historical roster position american football players sports position sports"
+    },
+    {
+        "relation_id": "/people/profession/specialization_of",
+        "relation": "specialization of profession people"
+    },
+    {
+        "relation_id": "/award/award_category/category_of",
+        "relation": "category of award category award"
+    },
+    {
+        "relation_id": "/film/film/cinematography",
+        "relation": "cinematography film"
+    },
+    {
+        "relation_id": "/film/film/film_production_design_by",
+        "relation": "film production design by film"
+    },
+    {
+        "relation_id": "/tv/tv_program/country_of_origin",
+        "relation": "country of origin tv program tv"
+    },
+    {
+        "relation_id": "/film/film/edited_by",
+        "relation": "edited by film"
+    },
+    {
+        "relation_id": "/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program",
+        "relation": "program tv regular personal appearance tv regular appearances tv personality tv"
+    },
+    {
+        "relation_id": "/education/field_of_study/students_majoring./education/education/major_field_of_study",
+        "relation": "major field of study students majoring field of study education"
+    },
+    {
+        "relation_id": "/education/educational_degree/people_with_this_degree./education/education/student",
+        "relation": "student people with this degree educational degree education"
+    },
+    {
+        "relation_id": "/location/us_county/county_seat",
+        "relation": "county seat us county location"
+    },
+    {
+        "relation_id": "/film/film/film_festivals",
+        "relation": "film festivals film"
+    },
+    {
+        "relation_id": "/people/person/spouse_s./people/marriage/spouse",
+        "relation": "spouse marriage spouse s person people"
+    },
+    {
+        "relation_id": "/film/film/runtime./film/film_cut/film_release_region",
+        "relation": "film release region film cut runtime film"
+    },
+    {
+        "relation_id": "/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division",
+        "relation": "administrative division administrative division capital relationship capital of capital of administrative division location"
+    },
+    {
+        "relation_id": "/base/aareas/schema/administrative_area/administrative_area_type",
+        "relation": "administrative area type administrative area schema aareas base"
+    },
+    {
+        "relation_id": "/influence/influence_node/peers./influence/peer_relationship/peers",
+        "relation": "peer relationship peers influence node influence"
+    },
+    {
+        "relation_id": "/government/governmental_body/members./government/government_position_held/legislative_sessions",
+        "relation": "legislative sessions government position held members governmental body government"
+    },
+    {
+        "relation_id": "/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language",
+        "relation": "service language phone sandbox schemastaging base phone number organization extra schemastaging base"
+    },
+    {
+        "relation_id": "/organization/organization/place_founded",
+        "relation": "place founded organization"
+    },
+    {
+        "relation_id": "/base/eating/practicer_of_diet/diet",
+        "relation": "diet practicer of diet eating base"
+    },
+    {
+        "relation_id": "/tv/tv_program/program_creator",
+        "relation": "program creator tv program tv"
+    },
+    {
+        "relation_id": "/people/deceased_person/place_of_burial",
+        "relation": "place of burial deceased person people"
+    },
+    {
+        "relation_id": "/film/film/release_date_s./film/film_regional_release_date/film_regional_debut_venue",
+        "relation": "film regional debut venue film regional release date release date s film"
+    },
+    {
+        "relation_id": "/ice_hockey/hockey_team/current_roster./sports/sports_team_roster/position",
+        "relation": "position sports team roster sports current roster hockey team ice hockey"
+    },
+    {
+        "relation_id": "/location/administrative_division/first_level_division_of",
+        "relation": "first level division of administrative division location"
+    },
+    {
+        "relation_id": "/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency",
+        "relation": "adjustment currency adjusted money value measurement unit gdp real statistical region location"
+    },
+    {
+        "relation_id": "/organization/organization/child./organization/organization_relationship/child",
+        "relation": "organization relationship child organization"
+    },
+    {
+        "relation_id": "/business/business_operation/assets./measurement_unit/dated_money_value/currency",
+        "relation": "currency dated money value measurement unit assets business operation business"
+    },
+    {
+        "relation_id": "/film/person_or_entity_appearing_in_film/films./film/personal_film_appearance/type_of_appearance",
+        "relation": "type of appearance personal film appearance films person or entity appearing in film film"
+    },
+    {
+        "relation_id": "/time/event/instance_of_recurring_event",
+        "relation": "instance of recurring event event time"
+    },
+    {
+        "relation_id": "/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person",
+        "relation": "person tv regular personal appearance tv regular personal appearances non character role tv"
+    },
+    {
+        "relation_id": "/film/actor/film./film/performance/special_performance_type",
+        "relation": "special performance type performance actor film"
+    },
+    {
+        "relation_id": "/business/business_operation/operating_income./measurement_unit/dated_money_value/currency",
+        "relation": "currency dated money value measurement unit operating income business operation business"
+    },
+    {
+        "relation_id": "/people/ethnicity/languages_spoken",
+        "relation": "languages spoken ethnicity people"
+    },
+    {
+        "relation_id": "/base/americancomedy/celebrity_impressionist/celebrities_impersonated",
+        "relation": "celebrities impersonated celebrity impressionist americancomedy base"
+    },
+    {
+        "relation_id": "/medicine/symptom/symptom_of",
+        "relation": "symptom of symptom medicine"
+    },
+    {
+        "relation_id": "/education/university/fraternities_and_sororities",
+        "relation": "fraternities and sororities university education"
+    },
+    {
+        "relation_id": "/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to",
+        "relation": "exported to imports and exports places exported to statistical region location"
+    },
+    {
+        "relation_id": "/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency",
+        "relation": "currency dated money value measurement unit gdp nominal statistical region location"
+    },
+    {
+        "relation_id": "/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation",
+        "relation": "mode of transportation transportation how to get here travel destination travel"
+    },
+    {
+        "relation_id": "/location/country/official_language",
+        "relation": "official language country location"
+    },
+    {
+        "relation_id": "/location/location/partially_contains",
+        "relation": "partially contains location"
+    },
+    {
+        "relation_id": "/film/film/film_art_direction_by",
+        "relation": "film art direction by film"
+    },
+    {
+        "relation_id": "/people/person/spouse_s./people/marriage/location_of_ceremony",
+        "relation": "location of ceremony marriage spouse s person people"
+    },
+    {
+        "relation_id": "/education/university/international_tuition./measurement_unit/dated_money_value/currency",
+        "relation": "currency dated money value measurement unit international tuition university education"
+    },
+    {
+        "relation_id": "/organization/organization_founder/organizations_founded",
+        "relation": "organizations founded organization founder organization"
+    },
+    {
+        "relation_id": "/film/film/dubbing_performances./film/dubbing_performance/actor",
+        "relation": "actor dubbing performance dubbing performances film"
+    },
+    {
+        "relation_id": "/dataworld/gardening_hint/split_to",
+        "relation": "split to gardening hint dataworld"
+    },
+    {
+        "relation_id": "/medicine/disease/risk_factors",
+        "relation": "risk factors disease medicine"
+    },
+    {
+        "relation_id": "/film/film/prequel",
+        "relation": "prequel film"
+    },
+    {
+        "relation_id": "/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months",
+        "relation": "seasonal months produce availability localfood base produce available seasonal month localfood base"
+    },
+    {
+        "relation_id": "/film/actor/dubbing_performances./film/dubbing_performance/language",
+        "relation": "language dubbing performance dubbing performances actor film"
+    },
+    {
+        "relation_id": "/broadcast/content/artist",
+        "relation": "artist content broadcast"
+    },
+    {
+        "relation_id": "/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency",
+        "relation": "currency dated money value measurement unit gni per capita in ppp dollars statistical region location"
+    },
+    {
+        "relation_id": "/music/instrument/family",
+        "relation": "family instrument music"
+    },
+    {
+        "relation_id": "/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office",
+        "relation": "jurisdiction of office government position held government positions held politician government"
+    }
+]
