@@ -1,6 +1,6 @@
 # KGAU
 
-Official code for **KGAU: A Negative-Sampling-Free Training Framework for Knowledge Graph Embeddings via Alignment and Uniformity** (Le-Nguyen, Nguyen, and Le; preprint submitted to Elsevier).
+Official code for **A Negative-Sampling-Free Training Framework for Knowledge Graph Embeddings via Alignment and Uniformity** (Le-Nguyen, Nguyen, and Le; preprint submitted to Elsevier).
 
 Knowledge Graph Embedding (KGE) models are usually trained with negative sampling, which is expensive and only supervises the embedding space indirectly. **KGAU** is a training framework for *decomposable* KGE models (score functions that factor into a relation-conditioned query and a target). It replaces negative sampling with a positive-only geometric objective:
 
