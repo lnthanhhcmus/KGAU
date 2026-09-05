@@ -185,7 +185,7 @@ KGDirectAU/
 
 ```bibtex
 @article{lenguyen2026kgau,
-  title   = {KGAU: A Negative-Sampling-Free Training Framework for Knowledge Graph Embeddings via Alignment and Uniformity},
+  title   = {A Negative-Sampling-Free Training Framework for Knowledge Graph Embeddings via Alignment and Uniformity},
   author  = {Le-Nguyen, Gia Bao and Nguyen, Uyen Ngoc Phuong and Le, Thanh},
   journal = {Preprint submitted to Elsevier},
   year    = {2026}
